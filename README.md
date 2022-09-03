@@ -15,8 +15,8 @@ Contact Yongjin Bin at  byj1775@qq.com or Yiran Huang at hyr@gxu.edu.cn
 
 
 # About
-@article{
+
   title={NetPro: Neighborhood Interaction-based Drug Repositioning via Label Propagation},
   author={Yiran Huang, Yongjin Bin, Pingfan Zeng, Wei Lan, Cheng Zhong*},
   year={2022}
-}
+
